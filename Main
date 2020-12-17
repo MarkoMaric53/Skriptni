@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="CSS.css">
+    </head>
+    <body class="background">
+    <div class="icon">
+        <div class="iconBorder">
+            <div class="iconVector"><img src="D:\School\VSC\images\Vector.png" </div>
+        </div>
+    </div>
+    <div class="rectangle">
+    <div class="background1">
+    <div class="stroke">
+        <div class="logo">
+            <div class="M"><p>M</p></div>
+            <div class="O"><p>O</p></div>
+            <div class="N"><p>N</p></div>
+            <div class="T"><p>T</p></div>
+            <div class="B"><p>B</p></div>
+            <div class="L"><p>L</p></div>
+            <div class="A"><p>A</p></div>
+            <div class="N"><p>N</p></div>
+            <div class="C"><p>C</p></div>
+        </div>
+        <div class="bikes"><p>BIKES</p></div>
+        <div class="accessories"><p>ACCESSORIES</p></div>
+        <div class="NewTech"><p>NEW TECH</p></div>
+        <div class="explore"><p>EXPLORE</p></div>
+        <div class="photo1">
+            <div class="image3"></div>
+        </div>
+        <div class="JapBlock">
+            <div class="Jap1"><img src="D:\School\VSC\images\オートバイ.png"></div>
+            <div class="Jap2"><img src="D:\School\VSC\images\オートバイ.png"></div>
+        </div>
+    </div>
+    </div>
+    </div>
+    </body>
+</html>
