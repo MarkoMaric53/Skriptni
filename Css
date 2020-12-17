@@ -1,0 +1,413 @@
+.stroke{ 
+position: absolute;
+width: 1742px;
+height: 1124px;
+left: 144px;
+top: 199px;
+
+border: 2px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 32px;
+}
+.rectangle{
+position: absolute;
+width: 1742px;
+height: 1124px;
+left: 144px;
+top: 199px;
+
+background: #F5F4EF;
+border-radius: 32px;
+}
+
+.background{
+position: absolute;
+width: 2030px;
+height: 1522px;
+left: 0px;
+top: 0px;
+
+background: #060507;
+}
+.background1{
+position: absolute;
+width: 1742px;
+height: 1124px;
+left: 144px;
+top: 199px;
+
+background: #060507;
+border-radius: 32px;
+}
+
+.logo{
+position: absolute;
+width: 285px;
+height: 45px;
+left: 208px;
+top: 254px;
+}
+
+.N{
+position: absolute;
+left: 20.44%;
+right: 78.28%;
+top: 17.61%;
+bottom: 80.35%;
+
+background: #FFFFFF;
+}
+
+.B{
+position: absolute;
+left: 16.55%;
+right: 82.27%;
+top: 17.61%;
+bottom: 80.35%;
+
+background: #FFFFFF;
+}
+
+.A{
+position: absolute;
+left: 18.77%;
+right: 79.7%;
+top: 17.61%;
+bottom: 80.35%;
+    
+background: #FFFFFF;
+}
+
+.M{
+position: absolute;
+left: 10.25%;
+right: 88.03%;
+top: 17.61%;
+bottom: 80.35%;
+    
+background: #FFFFFF;
+}
+
+.N2{
+position: absolute;
+left: 13.74%;
+right: 84.93%;
+top: 17.61%;
+bottom: 80.35%;
+
+background: #FFFFFF;
+}
+
+.O{
+position: absolute;
+left: 12.12%;
+right: 86.4%;
+top: 17.54%;
+bottom: 80.35%;
+
+background: #FFFFFF;
+}
+
+.T{
+position: absolute;
+left: 15.22%;
+right: 83.6%;
+top: 17.67%;
+bottom: 80.35%;
+
+background: #FFFFFF;
+}
+
+.C{
+position: absolute;
+left: 21.87%;
+right: 76.9%;
+top: 17.61%;
+bottom: 80.35%;
+
+background: #FFFFFF;
+}
+
+.L{
+position: absolute;
+left: 17.88%;
+right: 81.38%;
+top: 17.61%;
+bottom: 80.35%;
+
+background: #FFFFFF;
+}
+
+.bikes{
+position: absolute;
+width: 61px;
+height: 40px;
+left: 597px;
+top: 263px;
+
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 183%;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.accessories{
+position: absolute;
+width: 146px;
+height: 40px;
+left: 730px;
+top: 263px;
+
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 183%;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.NewTech{
+position: absolute;
+width: 108px;
+height: 40px;
+left: 948px;
+top: 263px;
+
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 183%;
+/* or 26px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.explore{
+position: absolute;
+width: 96px;
+height: 40px;
+left: 1128px;
+top: 263px;
+
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 183%;
+/* or 26px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.MontblancMototcycle{
+position: absolute;
+width: 183.28px;
+height: 177.41px;
+left: 974px;
+top: 413px;
+
+background: #FFFFFF;
+}
+
+.power{
+position: absolute;
+width: 305px;
+height: 148px;
+left: 1573px;
+top: 789px;
+}
+
+.torque{
+position: absolute;
+width: 305px;
+height: 148px;
+left: 1573px;
+top: 961px;
+}
+
+.FuelCapacity{
+position: absolute;
+width: 305px;
+height: 148px;
+left: 1573px;
+top: 1133px;
+}
+
+.Rectangle373{
+position: absolute;
+width: 353px;
+height: 749px;
+left: 1886px;
+top: 574px;
+    
+background: linear-gradient(90deg, #060507 0%, #060507 100%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.InfoBlock{
+position: absolute;
+width: 933px;
+height: 92px;
+left: 208px;
+top: 1187px;    
+}
+
+.vector{
+position: absolute;
+width: 1724px;
+height: 150px;
+left: 132px;
+top: 939px;
+}
+
+.photo1{
+position: absolute;
+width: 1032px;
+height: 700px;
+left: 144px;
+top: 363px;
+}
+
+.block{
+position: absolute;
+width: 172px;
+height: 1032px;
+left: 1176px;
+top: 363px;
+
+background: linear-gradient(90deg, #060507 0%, rgba(6, 5, 7, 0) 100%);
+transform: rotate(90deg);
+}
+
+.block{
+position: absolute;
+width: 172px;
+height: 1032px;
+left: 1176px;
+top: 363px;
+    
+background: linear-gradient(90deg, #060507 0%, rgba(6, 5, 7, 0) 100%);
+transform: rotate(90deg);
+}
+
+.block1{
+position: absolute;
+width: 172px;
+height: 1032px;
+left: 1176px;
+top: 1063px;
+
+background: linear-gradient(90deg, #060507 0%, rgba(6, 5, 7, 0) 100%);
+transform: matrix(0, -1, -1, 0, 0, 0);
+}
+
+.block2{
+position: absolute;
+width: 185.48px;
+height: 700px;
+left: 1176px;
+top: 363px;
+
+background: linear-gradient(90deg, #060507 0%, rgba(6, 5, 7, 0) 100%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.block3{
+position: absolute;
+width: 185.48px;
+height: 700px;
+left: 144px;
+top: 363px;
+
+background: linear-gradient(90deg, #060507 0%, rgba(6, 5, 7, 0) 100%);
+}
+
+.image3{
+position: absolute;
+width: 1301px;
+height: 813px;
+left: 32px;
+top: 266px;
+
+background: url(images/image3.png);
+}
+
+.Rectangle377{
+position: absolute;
+width: 1032px;
+height: 700px;
+left: 144px;
+top: 363px;
+
+background: #C4C4C4;
+}
+
+.JapBlock{
+position: absolute;
+width: 1724px;
+height: 150px;
+left: 132px;
+top: 939px;
+}
+
+.Jap1{
+position: absolute;
+width: 822px;
+height: 150px;
+left: 1034px;
+top: 939px;
+}
+
+.Jap2{
+position: absolute;
+width: 822px;
+height: 150px;
+left: 132px;
+top: 939px;
+}
+
+.icon{
+position: absolute;
+width: 66px;
+height: 66px;
+left: 52px;
+top: 52px;
+}
+
+.iconVector{
+position: absolute;
+left: 2.76%;
+right: 94.38%;
+top: 3.68%;
+bottom: 92.51%;
+
+background: #FFFFFF;
+}
+
+.iconBorder{
+position: absolute;
+width: 66px;
+height: 66px;
+left: 52px;
+top: 52px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+}
