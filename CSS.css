@@ -1,0 +1,314 @@
+.stroke{ 
+position: absolute;
+width: 1742px;
+height: 1124px;
+left: 100px;
+top: 155px;
+
+border: 2px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 32px;
+z-index: 1;
+}
+
+body{
+background: #060507;
+
+z-index: 2;
+}
+
+
+.icon{
+position: absolute;
+width: 66px;
+height: 66px;
+left: 52px;
+top: 52px;
+}
+
+.logo{
+position: absolute;
+width: 285px;
+height: 45px;
+left: 40px;
+top: 37px;
+}
+
+.bikes{
+position: absolute;
+width: 61px;
+height: 40px;
+left: 397px;
+top: 50px;
+font-family: 'Saira Condensed', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 183%;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.accessories{
+position: absolute;
+width: 146px;
+height: 40px;
+left: 570px;
+top: 50px;
+font-family: 'Saira Condensed', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 183%;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.NewTech{
+position: absolute;
+width: 108px;
+height: 40px;
+left: 798px;
+top: 50px;
+font-family: 'Saira Condensed', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 183%;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.explore{
+position: absolute;
+width: 96px;
+height: 40px;
+left: 988px;
+top: 50px;
+font-family: 'Saira Condensed', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 183%;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.MontblancMototcycle{
+position: absolute;
+width: 183.28px;
+height: 177.41px;
+left: 850px;
+top: 168px;
+
+z-index: 2;
+}
+
+.Rectangle373{
+position: absolute;
+width: 333px;
+height: 739px;
+left: 1386px;
+top: 376px;
+    
+background: linear-gradient(90deg, #060507 0%, #060507 100%);
+z-index: 4;
+}
+
+.frame{
+position: relative;
+width: 315px;
+height: 148px;
+padding: 10px 0 10px 0;
+display: flex;
+align-items: center;
+}
+
+.title{
+writing-mode: vertical-rl;
+transform: rotate(180deg);
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 40px;
+color: #3F3E44;
+}
+
+.sideText{
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+letter-spacing: 0.05em;
+color: #ffffff;
+}
+
+.mainText{
+margin: 20px 0;
+font-family: 'Saira Condensed', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 42px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+
+.infoText{
+position: absolute;
+width: 406px;
+height: 92px;
+left: 675px;
+top: 987px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 200%;
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.less{
+position: absolute;
+width: 72px;
+height: 40px;
+left: 140px;
+top: 997px;
+
+font-family: Druk Wide;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 183%;
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.more{
+position: absolute;
+width: 72px;
+height: 40px;
+left: 590px;
+top: 997px;
+
+font-family: Druk Wide;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 183%;
+
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #FFFFFF;
+}
+
+.line1{
+position: absolute;
+width: 140px;
+height: 4px;
+left: 190px;
+top: 1015px;
+
+background: #A75B12;
+}
+
+.line2{
+position: absolute;
+width: 226px;
+height: 4px;
+left: 330px;
+top: 1015px;
+
+background: #FFFFFF;
+}
+
+.stroke #gold{
+position: absolute;
+width: 562px;
+height: 375px;
+left: 1179px;
+top: 0px;
+overflow: hidden;
+z-index: 1;
+border-top-right-radius: 32px;
+box-sizing: border-box;
+}
+
+.jap1{
+position: absolute;
+width: 822px;
+height: 150px;
+left: 0px;
+top: 769px;
+z-index: 3;
+}
+
+.jap2{
+position: absolute;
+width: 822px;
+height: 150px;
+left: 892px;
+top: 769px;
+
+z-index: 3;
+}
+
+.photo1{
+position: absolute;
+width: 1070px;
+height: 713px;
+left: 0px;
+top: 110px;
+
+z-index: 1;
+}
+
+.photo3{
+position: absolute;
+width: 316px;
+height: 256px;
+left: 1100px;
+top: 830px;
+
+z-index: 1;
+}
+
+.wheel{
+position: absolute;
+width: 316px;
+height: 700px;
+left: 1050px;
+top: 163px;
+
+z-index: 2;
+}
